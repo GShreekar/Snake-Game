@@ -10,7 +10,7 @@ This is a simple Snake Game made in Python using the Turtle module.
 ## 🚀 How to Run
 Clone this project:  
    ```bash  
-   git clone https://github.com/your-username/Snake-Game.git
+   git clone https://github.com/GShreekar/Snake-Game.git
    cd Snake-Game
    python main.py
    ```
